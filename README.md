@@ -18,8 +18,6 @@ Actualmente, me encuentro explorando nuevas herramientas de IA, automatización 
 
 📫 **Conéctate conmigo:**
 - 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil/)
-- 🐦 [Twitter](https://twitter.com/tu-usuario)
-- 🌐 [Portafolio](https://tu-portafolio.com)
 
 💡 *«La ciencia de los datos es la sinfonía de los números»* 🎶📊
 
