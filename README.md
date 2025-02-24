@@ -17,7 +17,7 @@ Soy un apasionado por la tecnología, los datos y el sonido. Mi trayectoria abar
 Actualmente, me encuentro explorando nuevas herramientas de IA, automatización de procesos y técnicas avanzadas de procesamiento de señales.
 
 📫 **Conéctate conmigo:**
-- 💼 [LinkedIn]([https://www.linkedin.com/in/tu-perfil/](https://ar.linkedin.com/in/lucas-della-maestra-29444018a))
+- 💼 [LinkedIn](https://ar.linkedin.com/in/lucas-della-maestra-29444018a)
 
 💡 *«La ciencia de los datos es la sinfonía de los números»* 🎶📊
 
